@@ -29,6 +29,7 @@ import { faCircleLeft } from '@fortawesome/free-solid-svg-icons';
       </div>
     </div>
   `,
+  
   styles: [`
     .navbar{
       display: grid;
